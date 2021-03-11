@@ -1,5 +1,5 @@
 import React from 'react';
-import { useInput } from '../customHooks/useInput';
+import { useInput } from './useInput';
 
 const InputExam = () => {
   const maxLen = (value) => !value.includes('@');

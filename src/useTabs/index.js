@@ -1,5 +1,5 @@
 import React from 'react';
-import { useTabs } from '../customHooks/useTaps';
+import { useTabs } from './useTaps';
 
 const content = [
   {
