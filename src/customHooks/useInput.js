@@ -16,4 +16,4 @@ export const useInput = (initialValue, validator) => {
 };
 
 // validator
-// const maxLen = value => !value.includes("@");
+// const maxLen = value => value.length <= 10;

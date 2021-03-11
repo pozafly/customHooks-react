@@ -1,10 +1,12 @@
 import React from 'react';
-import InputExam from './components/InputExam';
+// import InputExam from './components/InputExam';
+import TapsExam from './components/TapsExam';
 
 const App = () => {
   return (
     <>
-      <InputExam />
+      <TapsExam />
+      {/* <InputExam /> */}
     </>
   );
 };
